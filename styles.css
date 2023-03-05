@@ -33,6 +33,47 @@ nav ul li a {
    
 }
 
+/*  css codes for the profile page */
+.about {
+    width: 100%;
+    padding: 78px 0px;
+    background-color: whitesmoke;
+
+}
+.about img {
+    height: auto;
+    width: 70%;
+    padding-right: 3rem;
+    
+}
+.content {
+    text-justify: auto;
+    text-align: justify;
+    color: black;
+}
+.about text { 
+    width: 30%;
+    text-justify: auto;
+    text-align: justify;
+    color: blue;
+}
+.main{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.heading {
+    color: #033126;
+    font-size: 60px;
+    font-weight: 700;
+    text-transform: 20px;
+    margin-bottom: 20px;
+}
+/*  css codes for the profile page ends here  */
+
 main {
 	max-width: 960px;
 	margin: 0 auto;
